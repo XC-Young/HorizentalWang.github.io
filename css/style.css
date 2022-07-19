@@ -96,34 +96,34 @@ pre.prettyprint { padding: 10px !important; margin: 40px; font-size: 12px;}
 .before-item {
 	display: flex;
 	margin-bottom: 10px;
+	padding-left: 30px;
   }
 
 .pubpic { 
-	width: 170px ;
+	width: 200px ;
 }
 
 .pubtitle { 
 	line-height: 10px; 
 	font-family: 'Merriweather', Georgia, Times; 
-	font-size: 10px; 
+	font-size: 16px; 
 }
 
 .pubauthor { 
 	line-height: 10px; 
 	font-family: 'Merriweather', Georgia, Times; 
-	font-size: 8px; 
-	color:#999999; 
+	font-size: 14px; 
 }
 
 .publoc { 
 	line-height: 10px; 
 	font-family: 'Merriweather', Georgia, Times; 
-	font-size: 10px; 
+	font-size: 16px; 
 	color:brown
 }
 
 .publink { 
 	line-height: 10px; 
 	font-family: 'Merriweather', Georgia, Times; 
-	font-size: 8px; 
+	font-size: 14px; 
 }
