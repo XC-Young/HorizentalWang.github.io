@@ -1,7 +1,26 @@
 如果您想对主页进行改动
 - fork该项目到您个人账户;
 - 将所fork的该项目下载到您本地进行修改;
-- 提交您本地项目到您的账户;
+  ```
+  # for windows
+  下载git
+  打开Git CMD
+  cd到下载的文件夹
+  # for linux
+  打开终端，安装git
+  cd到下载的文件夹
+
+  git init
+  git remote add origin git@github.com...(这里git@github.com是您fork的项目-code-SSH-复制的内容)
+  ```
+- 按照下述指南修改后
+- 在您的个人帐户更新您fork的项目
+  ```
+  # 同样git到本地下载的文件夹
+  git add .
+  git commit -m "some commit"
+  git push origin master
+  ```
 - 在您的个人帐户项目中新建pull request等待拉取。
 
 以下为修改指南：
