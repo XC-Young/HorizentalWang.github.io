@@ -72,7 +72,7 @@
   			[<a href="Your paper link">Paper</a>]
   			[<a href="Your code link">Code</a>]
   			[<a href="Your video link">Video</a>]
-  		</span>
+  		<br></span>
   	</div>
   </div>
   ```
