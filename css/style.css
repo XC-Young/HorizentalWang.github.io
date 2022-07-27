@@ -93,6 +93,12 @@ pre.prettyprint { padding: 10px !important; margin: 40px; font-size: 12px;}
 	font-family: 'Montserrat', Helvetica, sans-serif; }
 
 /* for publications */
+.intro {
+	display: flex;
+	margin-bottom: 10px;
+  }
+
+
 .before-item {
 	display: flex;
 	margin-bottom: 10px;
