@@ -57,6 +57,7 @@
 		<div class="before-item" >
 		<div class="pubimg">
 			<img  class="pubpic" src="teasers/yourpic.jpg">
+      ### 如果是视频 使用<video class="pubpic" width="200px" autoplay="autoplay" loop="loop" muted src="publications/teasers/yourvideo.mp4"></video>
 		</div>
 		<div class="pubdsp">
 			<span class=pubtitle > 
